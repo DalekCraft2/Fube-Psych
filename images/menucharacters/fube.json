@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "fube idle",
+	"idle_anim": "fube idle",
+	"position": [
+		470,
+		310
+	],
+	"scale": 0.35,
+	"image": "Fube"
+}

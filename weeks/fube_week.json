@@ -1,0 +1,25 @@
+{
+	"storyName": "foony holofunk emote",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "foob_week",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"fube",
+		"foob",
+		"mion-speaker"
+	],
+	"songs": [
+		[
+			"Fube",
+			"fube",
+			[
+				27,
+				159,
+				208
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fube"
+}

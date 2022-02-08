@@ -1,0 +1,10 @@
+{
+	"image": "Foob",
+	"position": [
+		80,
+		80
+	],
+	"scale": 0.8,
+	"idle_anim": "BF idle dance",
+	"confirm_anim": "BF HEY!!"
+}

@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fube idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				157
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fube up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				130
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fube left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				130
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fube right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fube down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "fube idle",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				210,
+				130
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "fube left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				157
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "fube up",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				130
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "fube right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				174,
+				0
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "fube down",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fube",
+	"position": [
+		-270,
+		-110
+	],
+	"healthicon": "fube",
+	"flip_x": false,
+	"healthbar_colors": [
+		27,
+		159,
+		208
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Fube",
+	"description": "pray to the fube",
+	"restart":false,
+	"color": [
+		27,
+		159,
+		208
+	]
+}

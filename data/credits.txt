@@ -1,0 +1,4 @@
+Fube Credits
+Binpuki::binpuki::The one behind everything else::https://twitter.com/binpuki_::0xFFB692FF
+Keaton Hoshida::keaton::The main artist behind HoloFunk::https://twitter.com/FoxArcana::0xFFfB5DFF
+GGalactigal::haruka::The artist who created Foob and Fube::https://twitter.com/GGalactigal::0xFFED157C
