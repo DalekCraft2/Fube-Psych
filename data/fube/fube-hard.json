@@ -1,9 +1,15 @@
 {
 	"song": {
 		"player1": "foob",
-		"events": [],
-		"gfVersion": "mion-speaker",
 		"player2": "fube",
+		"player3": "mion-speaker",
+		"events": [],
+		"song": "Fube",
+		"stage": "space",
+		"needsVoices": true,
+		"validScore": true,
+		"speed": 2.5,
+		"bpm": 150,
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -6648,13 +6654,6 @@
 				"changeBPM": false,
 				"mustHitSection": true
 			}
-		],
-		"player3": null,
-		"song": "Fube",
-		"stage": "space",
-		"needsVoices": true,
-		"validScore": true,
-		"speed": 2.50000000000002,
-		"bpm": 150
+		]
 	}
 }
